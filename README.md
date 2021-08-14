@@ -6,3 +6,5 @@ The dataset is from Kaggle: https://www.kaggle.com/navinmundhra/daily-power-gene
 I've used PowerBI for the analysis.
 
 Added relationships in the model between the two tables with the column "Region".
+
+Have removed the "Null" values in Nuclear Actual Generation column and Nuclear Estimated Generation columns for visualising the sum of generation values.
